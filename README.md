@@ -1,4 +1,4 @@
-# 🌾 Smart Crop Advisory **PRO** (v2)
+# 🌾 Smart Crop Advisory 
 
 End-to-end demo with:
 - FastAPI backend
